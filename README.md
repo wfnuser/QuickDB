@@ -1,0 +1,2 @@
+# QuickDB
+A lite database
